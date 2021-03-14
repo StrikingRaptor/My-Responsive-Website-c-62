@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color: blue;
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: darkcyan;
+}
+
+#art {
+    width: 100%;
+    height: 800px;
+    background-color: coral;
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: crimson;
+}
+
+.line {
+    height: 6px;
+    background-color: cyan;
+    width: 80px;
+    margin: 8px;
+
+}
